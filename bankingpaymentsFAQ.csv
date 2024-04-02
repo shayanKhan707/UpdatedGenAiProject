@@ -1,0 +1,4 @@
+CustomerId,CustomerName,AccountBalance,DepositAmount,WithdrawAmount,AccountType,CreditCardLimit,MaxOnlineUsageLimit,ATMWithdrawlLimit,LastPaymentAmount,LastPaymentAmount,NextPaymentDate,MinimumPaymentDue
+C3452,Shayan,45000,3000,2000,Current,100000,15000,40000,2024-03-25,2000,2024-04-25,1500
+C3454,Abhishek,78000,3224,5999,Savings,80000,3000,30000,2024-03-26,3000,2024-04-26,2500
+C3456,Sharan,89000,3422,9044,Current,50000,5000,25000,2024-03-27,2500,2024-04-27,2000
